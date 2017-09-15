@@ -29,6 +29,8 @@ theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
+google_analytics: 'UA-26476621-3'
+
 defaults:
   - scope:
       path: "assets/img"
