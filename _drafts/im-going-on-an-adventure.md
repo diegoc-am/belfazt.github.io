@@ -15,4 +15,4 @@ I've never been for a *long* period in Europe, last time I was there was because
 
 I think that the hardest part will be being away from the people that I care about and I love. I think that everything is a challenge and this is just part of it.
 
-## It's Österreich time!
+## It's Österreich time! :+1:
