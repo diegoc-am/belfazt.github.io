@@ -7,7 +7,7 @@ categories: personal austria
 ![Adventure]({{ site.baseurl }}/assets/img/adventure.jpg)
 
 If you're reading this the day this was posted I'm probably on a plane or a train thinking about of what I've done, full of doubts, but please, don't get me wrong.
-I'm super happy of what's going on for me right now, however it's not an easy thing to do. I'm excited and scared but most of all **happy**.
+I'm super happy of what's going on right now, however it's not an easy thing to do. I'm excited and scared but most of all **happy**.
 
 So, what's going on is that I'll be in Austria working as a Software Engineer, I have to arrive a week early to finish the Work Permit paperwork, which gives me some time to just hang out around there and visit some cities/countries around.
 
