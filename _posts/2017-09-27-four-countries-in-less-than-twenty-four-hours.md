@@ -64,3 +64,8 @@ Was hard to get on the train with all the luggage that I had on myself.
 After getting to Linz I went to get some food at the hauptbahnhof and proceeded to go to the place where I'm staying. Afterwards I was in shock of everything that happened in the last twenty four hours and felt a bit sad and weird, I decided to hit up my friend Alex the Rumanian and he was kind enough to cheer me up a bit.
 
 He and his girlfriend took me for dinner to Český_Krumlov which is a town in the border of the Czech Republic and Austria, I'm super grateful for this.
+
+Here's a picture of the castle that is inside of the town.
+
+![Cesky Krumlov]({{ site.baseurl }}/assets/img/ceskykrumlov.jpg)
+(Sorry for the bad quality)
