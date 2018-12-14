@@ -7,12 +7,15 @@ source 'https://rubygems.org'
 #     bundle exec jekyll serve
 #
 # If you have any plugins, put them here!
+
+gem 'jekyll', '~> 3.6', '>= 3.6.3'
+
 group :jekyll_plugins do
   gem 'github-pages'
   gem 'jekyll-feed', '~> 0.6'
 end
 
-gem 'jemoji', '~> 0.8.0'
+gem 'jemoji', '~> 0.8'
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: %i[mingw mswin x64_mingw jruby]
