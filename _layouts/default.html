@@ -1,15 +1,16 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="en-us">
+
   {% include head.html %}
-  <body>
-    {% include header.html %}
 
-    <section class="main-content">
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
+
+    {% include sidebar.html %}
+
+    <main class="container">
       {{ content }}
+    </main>
 
-      {% include footer.html %}
-    </section>
-
-    {% include google_analytics.html %}
+    {% include custom-foot.html %}
   </body>
 </html>
