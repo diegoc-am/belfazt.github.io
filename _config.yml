@@ -25,10 +25,14 @@ lang: 'en'
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+remote_theme: fongandrew/hydeout
 plugins:
   - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
   - jemoji
+
+paginate: 5
 
 google_analytics: 'UA-26476621-3'
 
